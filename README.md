@@ -37,5 +37,6 @@ A simple web app built with Python and Flask for encrypting and decrypting messa
 ## Screenshots
 
 ![ss1](https://github.com/user-attachments/assets/dca87bb5-ab93-4f07-a84f-53bc72cc1e01)
-![ss2](https://github.com/user-attachments/assets/129f897b-893e-4c6f-a917-0a94731c6090)
+
+![ss2](https://github.com/user-attachments/assets/0488948c-67e0-4636-b339-0260a0732ce2)
 
